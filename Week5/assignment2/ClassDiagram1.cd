@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="assignment2.ATMMachine">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAIQABAAAAAAAAAIAJAAkAGACAAgAACIEAQAAA=</HashCode>
+      <FileName>ATMMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="assignment2.CardPresentState" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQBAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardPresentState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="assignment2.CorrectPinState" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQBAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CorrectPinState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="assignment2.NoCardState" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQBAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoCardState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="assignment2.NoCashState" BaseTypeListCollapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQQBAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoCashState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="assignment2.Program">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="assignment2.IATMState">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAACAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IATMState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
